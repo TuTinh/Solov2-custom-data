@@ -1,2 +1,2 @@
-# Solov2
-Using Solov2 for segment road crack
+# Solov2-Custom-Data
+Custom Solov2 for segment road crack data
